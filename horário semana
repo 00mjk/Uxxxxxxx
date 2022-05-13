@@ -1,0 +1,51 @@
+<h4>Matéria - Professor(a) - Dia/Aula</h4>
+<table border="1" style="text-align: center;background-color: #D6EEEE">
+ <style>
+      h4 {
+  color: green;
+  font-family: Times New Roman;
+  font-size: 300%;
+}
+ </style>
+<td colspan="8">Faculdade de Tecnologia e Inovação Senac DF</td>
+           
+     <tr> 
+
+     <style>
+          td {
+            color: green;
+            font-family: Times New Roman;
+            font-size: 250%;
+          }
+     </style>  
+     
+          <td rowspan="3">1° ADS</td>
+          <td>Matemática</td>
+          <td>Laboratório de Inovação I </td>
+          <td>Lógica de Programação</td>
+          <td>Padrões Web</td>
+          <td>Introdução a Computação</td>
+          <td rowspan="3">EaD</td>
+          <td>Comunicação Empresarial</td>        
+     </tr>
+       
+     <tr>
+          <td>Prof. Roberto Sherfer</td>
+          <td>Prof. Rita Brum</td>
+          <td>Prof. Marcos Vieira</td>
+          <td>Prof. Márcio Araya</td>
+          <td>Prof. Thiago Fernandes</td>
+          <td>Prof. Laís Borges</td>   
+     </tr>
+
+      <tr>
+          <td>Seg</td>
+          <td>Ter</td>
+          <td>Qua</td>
+          <td>Qui</td>
+          <td>Sex</td>
+          <td>Sab</td>
+     </tr>
+
+
+</table>>
